@@ -31,10 +31,14 @@ Is LegalOne a product or a platform?
 
 LegalOne started out as a product called Novajus, which was origninally aimed at law firms. However, because Novajus was a fast-growing product and it had a favorable architecture, we saw the potential to turn it into something bigger. We wanted to be able to leverage the core features, like the user interface, security, auditing, customizable reports and so forth, and allow for specific business rules to be customized, in such a way that Novajus could reach out new markets, like legal departments, or even new regions. Then, we started adding platform characterists to Novajus, and the result of that effort would later be named LegalOne.
 
-You are probably familiar with this diagram. LegalOne allows customizations to be added through layers. Each layer leverages everything from the layers beneath, and it allows for overriding existing artifacts.
+You are probably familiar with this diagram. We designed an architecture that allows customizations to be added through layers. Each layer leverages everything from the layers beneath, and it allows for overriding existing artifacts.
 
-Artifacts that can be overriden or customized are:
+Artifacts that can be overriden or customized include:
 
- - Services. That makes it possible to customize existing business rules, as well as adding new ones. For instance, if you want an appointment to be created everytime a matter is created, you can implement a new MatterService, that overrides the existing MatterService, and then implement this rule there.
- - 
+ - Services: That makes it possible to customize existing business rules, as well as adding new ones. For instance, if you want an appointment to be created everytime a matter is created, you can implement a new MatterService, that overrides an existing MatterService, and then you can implement this rule.
+ - Views: That makes it possible to create customized forms for specific entities. For example, If you want to remove some fields and add new fields to the Matters form, you can implement a new EditMatter view, and then change it according to the requirements.
+ - Look and feel: That makes it possible for products to have customized styles.
+ - Others...
+
+
 
