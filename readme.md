@@ -29,5 +29,5 @@ and time tracking and, most importantly, matter management.
 Is LegalOne a product or a platform?
 ---
 
-LegalOne started out as a product called Novajus, which was origninally aimed at law firms. However, because Novajus was a fast-growing product and it had a favorable architecture, we saw the potential to turn it into something bigger. We wanted to be able to leverage the core features, like the user interface, security, auditing, customizable reports and so forth, and allow for specific business rules to be customized, in such a way that Novajus could reach out new markets, like legal departments, or even new regions.
+LegalOne started out as a product called Novajus, which was origninally aimed at law firms. However, because Novajus was a fast-growing product and it had a favorable architecture, we saw the potential to turn it into something bigger. We wanted to be able to leverage the core features, like the user interface, security, auditing, customizable reports and so forth, and allow for specific business rules to be customized, in such a way that Novajus could reach out new markets, like legal departments, or even new regions. Then, we started adding platform characterists to Novajus, and the result of that effort would later be named LegalOne.
 
