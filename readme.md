@@ -43,4 +43,7 @@ Artifacts that can be  customized include:
 
 So, going back to the subject. Is LegalOne a product or a platform? The answer is: LegalOne is a product that has many platform features. Is it possible to deliver multiple products on top of LegalOne, as it is today? Yes, but there's room for improvements, and that's what this whole presentation is about.
 
+Making LegalOne better
+---
+
 
