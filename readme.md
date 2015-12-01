@@ -23,7 +23,7 @@ interpret data from many business activities, including:
  
 Or you can just say an ERP is the software solution that a businesses use for managing most, if not all, of the data in 
 their operations. That's why ERP systems are also called data-centric business applications. In the specific case of
-LegalOne, we provide a variety of solutions for our customers like accounting, billing, time tracking, services management 
+LegalOne, we provide a variety of solutions for our customers like accounting, billing, services management 
 and time tracking and, most importantly, matter management.
 
 Is LegalOne a product or a platform?
@@ -41,7 +41,7 @@ Artifacts that can be  customized include:
  - Localization, including translation, currencies, time-zones and date and number formats.
  - Others...
 
-So, going back to the subject. Is LegalOne a product or a platform? The answer is: LegalOne is a product that has many platform features. Is it possible to deliver multiple products on top of LegalOne, as it is today? Yes, but there's room for improvements, and that's what this whole presentation is about.
+So, going back to the question: Is LegalOne a product or a platform? The answer is: LegalOne is a product that has many platform features. Is it possible to deliver multiple products on top of LegalOne, as it is today? Yes, but there's room for improvements, and that's what this whole presentation is about.
 
 Making LegalOne better
 ---
@@ -49,6 +49,8 @@ Making LegalOne better
 Development productivity
 ---
 
-One of the main topics we should improve in order to address the growing need for customization is development productivity.
+One of the main topics we should address in order to meet the growing need for customization is development productivity. LegalOne has been built using the industry standard architecture for ASP.NET apps:
+
+
 
 
